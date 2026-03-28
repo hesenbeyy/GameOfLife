@@ -50,12 +50,6 @@ Generated\ Files/
 TestResult.xml
 nunit-*.xml
 
-
-*.vcxproj.filters
-*.vcxproj
-*.sln
-
-
 # Build Results of an ATL Project
 [Dd]ebugPS/
 [Rr]eleasePS/
